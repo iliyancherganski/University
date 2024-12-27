@@ -1,0 +1,5 @@
+﻿  SemesterProject.cpp
+D:\ILIYAN\Uni\Semester 1\Base Programming\SemesterProject\SemesterProject\SemesterProject.cpp(845,5): warning C4551: function call missing argument list
+D:\ILIYAN\Uni\Semester 1\Base Programming\SemesterProject\SemesterProject\SemesterProject.cpp(934,11): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\ILIYAN\Uni\Semester 1\Base Programming\SemesterProject\SemesterProject\SemesterProject.cpp(967,11): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  SemesterProject.vcxproj -> D:\ILIYAN\Uni\Semester 1\Base Programming\SemesterProject\x64\Debug\SemesterProject.exe
